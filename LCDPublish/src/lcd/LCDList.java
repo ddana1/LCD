@@ -22,9 +22,9 @@ import lcd.LCDRequest.Operation;
 
 /**
  * Implementation of concurrent linked-list based on the paper 
- * "LCD: Local Combining on Demand" by Dana Drachsler (Technion) and Erez Petrank (Technion).
+ * "LCD: Local Combining on Demand" by Dana Drachsler-Cohen (Technion) and Erez Petrank (Technion).
  *
- * Copyright 2014 Dana Drachsler (ddana [at] cs [dot] technion [dot] ac [dot] il).
+ * Copyright 2014 Dana Drachsler-Cohen (ddana [at] cs [dot] technion [dot] ac [dot] il).
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
