@@ -1,12 +1,4 @@
-/*
- * LazyList.java
- *
- * Created on January 4, 2006, 1:41 PM
- *
- * From "Multiprocessor Synchronization and Concurrent Data Structures",
- * by Maurice Herlihy and Nir Shavit.
- * Copyright 2006 Elsevier Inc. All rights reserved.
- */
+
 
 package lcd;
 
@@ -38,6 +30,16 @@ import lcd.LCDRequest.Operation;
  * 
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * 
+ * ----
+ * The implementation is built on top of the LazyList.java
+ *
+ * Created on January 4, 2006, 1:41 PM
+ *
+ * From "Multiprocessor Synchronization and Concurrent Data Structures",
+ * by Maurice Herlihy and Nir Shavit.
+ * Copyright 2006 Elsevier Inc. All rights reserved.
+ * ----
  * 
  * @author Dana Drachsler-Cohen
  */
